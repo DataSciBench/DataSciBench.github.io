@@ -5,7 +5,12 @@ This is the repository that contains source code for the [DataSciBench website](
 
 If you find DataSciBench useful for your work please cite:
 ```
-
+@article{zhang2025datascibench,
+  title={DataSciBench: An LLM Agent Benchmark for Data Science},
+  author={Zhang, Dan and Zhoubian, Sining and Cai, Min and Li, Fengzu and Yang, Lekang and Wang, Wei and Dong, Tianjiao and Hu, Ziniu and Tang, Jie and Yue, Yisong},
+  journal={arXiv preprint arXiv:2502.13897},
+  year={2025}
+}
 ```
 
 # Website License
